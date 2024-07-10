@@ -17,8 +17,7 @@
     "react": "16.13.1",
     "react-native": "0.63.3",
     "react-native-html-to-pdf": "0.8.0",
-    "react-native-print": "../",
-    "react-native-windows": "^0.63.0-0"
+    "react-native-print": "../"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
